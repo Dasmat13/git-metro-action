@@ -1,0 +1,38 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Copy this file to YOUR PROFILE REPO:
+#   Dasmat13/Dasmat13/.github/workflows/metro.yml
+#
+# Then add this to your profile README.md:
+#   ![GitMetro](https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/metro.svg)
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: GitMetro — Update Profile
+
+on:
+  schedule:
+    - cron: '0 23 * * *'   # Runs daily at 23:00 UTC
+  workflow_dispatch:         # Allow manual trigger
+
+jobs:
+  metro:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitMetro SVG
+        uses: Dasmat13/git-metro-action@main
+        with:
+          github_user_name: ${{ github.actor }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/metro.svg
+
+      - name: Commit & Push SVG
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/metro.svg
+          git diff --cached --quiet || git commit -m "🚇 Update GitMetro [$(date +'%Y-%m-%d')]"
+          git push
