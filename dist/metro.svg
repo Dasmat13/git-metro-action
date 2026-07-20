@@ -302,11 +302,11 @@
   <g transform="translate(650, 8)">
     <rect x="0" y="0" width="242" height="52" rx="4" fill="rgba(0,0,0,0.65)" stroke="rgba(255,255,255,0.1)"/>
     <!-- Status Line -->
-    <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">SYS-STATUS: <tspan fill="#00afdb" font-weight="bold">EXCELLENT SERVICE</tspan></text>
+    <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">SYS-STATUS: <tspan fill="#e67e22" font-weight="bold">MINOR DELAYS</tspan></text>
     <!-- Ridership -->
-    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  556 pass/day</text>
+    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  542 pass/day</text>
     <!-- Network Clock -->
-    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">NET-CLOCK:  OVERCLOCKED (8 Hz)</text>
+    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">NET-CLOCK:  REDUCED CLK (8 Hz)</text>
   </g>
   
 
