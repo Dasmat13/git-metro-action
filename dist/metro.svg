@@ -75,7 +75,7 @@
     <g>
       <!-- Train capsule group -->
       <g>
-        <animateMotion dur="13.705908707523038s" repeatCount="indefinite" path="M 40,130 L 56,130 L 72,130 L 88,130 L 104,130 L 120,130 L 136,130 L 153,130 L 169,130 L 185,130 L 201,130 L 217,125 L 233,120 L 249,115 L 265,110 L 281,105 L 297,100 L 313,95 L 329,90 L 345,85 L 362,80 L 378,75 L 394,70 L 410,76 L 426,82 L 442,88 L 458,94 L 474,100 L 490,106 L 506,112 L 522,118 L 538,124 L 555,130 L 571,136 L 587,142 L 603,148 L 619,148 L 635,148 L 651,148 L 667,148 L 683,148 L 699,148 L 715,148 L 731,148 L 747,148 L 764,148 L 780,148 L 796,148 L 812,148 L 828,148 L 844,148 L 860,148" rotate="auto">
+        <animateMotion dur="13.313732916787988s" repeatCount="indefinite" path="M 40,130 L 56,130 L 72,130 L 88,130 L 104,130 L 120,130 L 136,130 L 153,130 L 169,130 L 185,130 L 201,130 L 217,125 L 233,120 L 249,115 L 265,110 L 281,105 L 297,100 L 313,95 L 329,90 L 345,85 L 362,80 L 378,75 L 394,70 L 410,76 L 426,82 L 442,88 L 458,94 L 474,100 L 490,106 L 506,112 L 522,118 L 538,124 L 555,130 L 571,136 L 587,142 L 603,148 L 619,148 L 635,148 L 651,148 L 667,148 L 683,148 L 699,148 L 715,148 L 731,148 L 747,148 L 764,148 L 780,148 L 796,148 L 812,148 L 828,148 L 844,148 L 860,148" rotate="auto">
           <!-- Slide offset delay can be implemented via begin attribute -->
         </animateMotion>
         
@@ -99,7 +99,7 @@
     <g>
       <!-- Train capsule group -->
       <g>
-        <animateMotion dur="13.705908707523038s" repeatCount="indefinite" path="M 40,100 L 60,130 L 40,160 L 136,100 L 156,130 L 136,160 L 233,90 L 253,120 L 233,150 L 329,60 L 349,90 L 329,120 L 426,52 L 446,82 L 426,112 L 522,88 L 542,118 L 522,148 L 619,118 L 639,148 L 619,178 L 715,118 L 735,148 L 715,178 L 812,118 L 832,148 L 812,178" rotate="auto">
+        <animateMotion dur="13.313732916787988s" repeatCount="indefinite" path="M 40,100 L 60,130 L 40,160 L 136,100 L 156,130 L 136,160 L 233,90 L 253,120 L 233,150 L 329,60 L 349,90 L 329,120 L 426,52 L 446,82 L 426,112 L 522,88 L 542,118 L 522,148 L 619,118 L 639,148 L 619,178 L 715,118 L 735,148 L 715,178 L 812,118 L 832,148 L 812,178" rotate="auto">
           <!-- Slide offset delay can be implemented via begin attribute -->
         </animateMotion>
         
@@ -266,8 +266,8 @@
       
   
         <g class="station-pop">
-          <circle cx="860" cy="148" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="860" cy="148" r="2.5" fill="#e74c3c"/>
+          <rect x="854" y="142" width="12" height="12" rx="2" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="860" cy="148" r="3" fill="#2c3e50"/>
         </g>
       
 
@@ -305,11 +305,11 @@
   <g transform="translate(650, 8)">
     <rect x="0" y="0" width="242" height="52" rx="4" fill="rgba(0,0,0,0.65)" stroke="rgba(255,255,255,0.1)"/>
     <!-- Status Line -->
-    <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">SYS-STATUS: <tspan fill="#e67e22" font-weight="bold">MINOR DELAYS</tspan></text>
+    <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">SYS-STATUS: <tspan fill="#00afdb" font-weight="bold">EXCELLENT SERVICE</tspan></text>
     <!-- Ridership -->
-    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  548 pass/day</text>
+    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  566 pass/day</text>
     <!-- Network Clock -->
-    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">NET-CLOCK:  REDUCED CLK (8 Hz)</text>
+    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">NET-CLOCK:  OVERCLOCKED (10 Hz)</text>
   </g>
   
 
