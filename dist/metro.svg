@@ -128,45 +128,39 @@
         </g>
       
   
-        <g class="station-pop">
-          <circle cx="56" cy="130" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="56" cy="130" r="2.5" fill="#e74c3c"/>
-        </g>
+        <circle cx="56" cy="130" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
       
   
-        <circle cx="72" cy="130" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
+        <circle cx="72" cy="130" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
       
   
         <circle cx="88" cy="130" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
       
   
-        <circle cx="104" cy="130" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
-      
-  
   
         <g class="station-pop">
-          <circle cx="136" cy="130" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="136" cy="130" r="2.5" fill="#e74c3c"/>
+          <circle cx="120" cy="130" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="120" cy="130" r="2.5" fill="#e74c3c"/>
         </g>
       
   
   
   
   
+  
+        <circle cx="201" cy="130" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
+      
   
         <circle cx="217" cy="125" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
       
   
-        <circle cx="233" cy="120" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
-      
-  
         <g class="station-pop">
-          <circle cx="249" cy="115" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="249" cy="115" r="2.5" fill="#e74c3c"/>
+          <circle cx="233" cy="120" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="233" cy="120" r="2.5" fill="#e74c3c"/>
         </g>
       
   
-        <circle cx="265" cy="110" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
+        <circle cx="249" cy="115" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
       
   
   
@@ -177,12 +171,13 @@
   
   
   
+  
+        <circle cx="410" cy="76" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
+      
   
         <circle cx="426" cy="82" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
       
   
-        <circle cx="442" cy="88" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
-      
   
   
   
@@ -191,17 +186,22 @@
   
   
   
-  
-        <circle cx="587" cy="142" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
+        <circle cx="571" cy="136" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
       
   
         <g class="station-pop">
-          <circle cx="603" cy="148" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="603" cy="148" r="2.5" fill="#e74c3c"/>
+          <circle cx="587" cy="142" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="587" cy="142" r="2.5" fill="#e74c3c"/>
         </g>
       
   
-        <circle cx="619" cy="148" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
+        <circle cx="603" cy="148" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
+      
+  
+        <g class="station-pop">
+          <rect x="613" y="142" width="12" height="12" rx="2" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="619" cy="148" r="3" fill="#2c3e50"/>
+        </g>
       
   
         <g class="station-pop">
@@ -210,10 +210,7 @@
         </g>
       
   
-        <g class="station-pop">
-          <rect x="645" y="142" width="12" height="12" rx="2" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="651" cy="148" r="3" fill="#2c3e50"/>
-        </g>
+        <circle cx="651" cy="148" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
       
   
         <circle cx="667" cy="148" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
@@ -222,28 +219,31 @@
         <circle cx="683" cy="148" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
       
   
-        <circle cx="699" cy="148" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
-      
   
+        <circle cx="715" cy="148" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
+      
   
         <circle cx="731" cy="148" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
       
   
-        <circle cx="747" cy="148" r="4" fill="#ffffff" stroke="#222" stroke-width="1.5" class="station-pop"/>
-      
-  
         <g class="station-pop">
-          <rect x="758" y="142" width="12" height="12" rx="2" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="764" cy="148" r="3" fill="#2c3e50"/>
+          <rect x="741" y="142" width="12" height="12" rx="2" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="747" cy="148" r="3" fill="#2c3e50"/>
         </g>
       
   
-        <circle cx="780" cy="148" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
+        <circle cx="764" cy="148" r="2" fill="#fff" stroke="#000" stroke-width="0.5" class="station-pop"/>
       
   
         <g class="station-pop">
-          <circle cx="796" cy="148" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="796" cy="148" r="2.5" fill="#e74c3c"/>
+          <circle cx="780" cy="148" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="780" cy="148" r="2.5" fill="#e74c3c"/>
+        </g>
+      
+  
+        <g class="station-pop">
+          <rect x="790" y="142" width="12" height="12" rx="2" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="796" cy="148" r="3" fill="#2c3e50"/>
         </g>
       
   
@@ -265,11 +265,6 @@
         </g>
       
   
-        <g class="station-pop">
-          <rect x="854" y="142" width="12" height="12" rx="2" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
-          <circle cx="860" cy="148" r="3" fill="#2c3e50"/>
-        </g>
-      
 
   <!-- Construction Hazard blinkers if delays -->
   
@@ -305,11 +300,11 @@
   <g transform="translate(650, 8)">
     <rect x="0" y="0" width="242" height="52" rx="4" fill="rgba(0,0,0,0.65)" stroke="rgba(255,255,255,0.1)"/>
     <!-- Status Line -->
-    <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">SYS-STATUS: <tspan fill="#00afdb" font-weight="bold">EXCELLENT SERVICE</tspan></text>
+    <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">SYS-STATUS: <tspan fill="#e67e22" font-weight="bold">MINOR DELAYS</tspan></text>
     <!-- Ridership -->
-    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  612 pass/day</text>
+    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  614 pass/day</text>
     <!-- Network Clock -->
-    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">NET-CLOCK:  OVERCLOCKED (11 Hz)</text>
+    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">NET-CLOCK:  REDUCED CLK (11 Hz)</text>
   </g>
   
 
