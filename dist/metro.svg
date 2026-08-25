@@ -274,6 +274,11 @@
         </g>
       
   
+        <g class="station-pop">
+          <circle cx="860" cy="148" r="6" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+          <circle cx="860" cy="148" r="2.5" fill="#e74c3c"/>
+        </g>
+      
 
   <!-- Construction Hazard blinkers if delays -->
   
@@ -311,7 +316,7 @@
     <!-- Status Line -->
     <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">SYS-STATUS: <tspan fill="#e67e22" font-weight="bold">MINOR DELAYS</tspan></text>
     <!-- Ridership -->
-    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  866 pass/day</text>
+    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">RIDERSHIP:  872 pass/day</text>
     <!-- Network Clock -->
     <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">NET-CLOCK:  REDUCED CLK (17 Hz)</text>
   </g>
